@@ -11,4 +11,8 @@ We have taken this a step further where our handwritten digit recognition system
 
 # About Dataset
 Among thousands of datasets available in the market, MNIST is the most popular dataset for enthusiasts of machine learning and deep learning. Above 60,000 plus training images of handwritten digits from zero to nine and more than 10,000 images for testing are present in the MNIST dataset. So, 10 different classes are in the MNIST dataset. The images of handwritten digits are shown as a matrix of 28×28 where every cell consists of a grayscale pixel value.
+
+![Screenshot532](https://github.com/AbhishekDighule/Handwritten-Digits-Recognition/assets/145597070/482d6082-9c5d-4530-b7e1-980fb6f0f0b1)
+
+
 ![screenshot](https://github.com/AbhishekDighule/Handwritten-Digits-Recognition/assets/145597070/4cf2164b-933a-4982-b2cc-5a201533fee4)
